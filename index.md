@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <h1>Connelly Aicher's student website</h1>
